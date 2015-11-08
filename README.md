@@ -1,7 +1,7 @@
 # Data Science Specialization Courses
 (datasciencecoursera)
 
-## Data Scientest's Toolbox
+## Data Scientist's Toolbox
 ### Week #1
 * Install R and RStudio
 * Create git repository
