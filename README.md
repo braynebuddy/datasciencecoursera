@@ -25,4 +25,6 @@
 ### Week 4
 * Programming Assignment 3 - Hospital Quality
 
+## Get and Clean Data
+### Week 1: Definitions, Raw, Processed, and Tidy
 
